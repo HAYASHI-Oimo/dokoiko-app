@@ -65,3 +65,4 @@ gem "tailwindcss-rails", "~> 4.2"
 
 gem "stringio", ">= 3.1.5"
 
+gem "sassc"
